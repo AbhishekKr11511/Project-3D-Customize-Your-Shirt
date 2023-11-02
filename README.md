@@ -24,12 +24,6 @@ Presenting our state-of-the-art T-shirt design platform, where you may unleash y
 <!-- This is where to explore about the features further:  -->
 
 ### Choose your color among 15 exicting swatches
-<table>
-  <tr>
-    <td><img src="/3dShirt/src/assets/thumbs/a.png" alt="Image a"></td>
-    <td><img src="/3dShirt/src/assets/thumbs/c.png" alt="Image c"></td>
-  </tr>
-</table>
 
 
 ### Add your own custom logo, design, or art on the front of the shirt
@@ -44,10 +38,12 @@ Presenting our state-of-the-art T-shirt design platform, where you may unleash y
 ### Add your background color, pattern, or image to suite your needs
 <table>
   <tr>
-    <td><img src="/3dShirt/src/assets/thumbs/b.png" alt="Image b"></td>
+    <td><img src="/3dShirt/src/assets/thumbs/2.png" alt="Image b"></td>
+    <td><img src="/3dShirt/src/assets/thumbs/3.png" alt="Image b"></td>
   </tr>
   <tr>
-    <td><img src="/3dShirt/src/assets/thumbs/7.png" alt="Image 7"></td>
+    <td><img src="/3dShirt/src/assets/thumbs/4.png" alt="Image 7"></td>
+    <td><img src="/3dShirt/src/assets/thumbs/5.png" alt="Image b"></td>
   </tr>
 </table>
 
