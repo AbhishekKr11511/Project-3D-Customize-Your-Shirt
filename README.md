@@ -2,12 +2,10 @@
 
 <table>
   <tr>
-    <td><img src="/3dShirt/src/assets/thumbs/1.png" alt="Image 1"></td>
-    <td><img src="/3dShirt/src/assets/thumbs/2.png" alt="Image 2"></td>
+    <td><img src="/3dShirt/src/assets/thumbs/0.png" alt="Image 1"></td>
   </tr>
   <tr>
-    <td><img src="/3dShirt/src/Assets/thumbs/3.png" alt="Image 3"></td>
-    <td><img src="/3dShirt/src/Assets/thumbs/5.png" alt="Image 4"></td>
+    <td><img src="/3dShirt/src/assets/thumbs/1.png" alt="Image 2"></td>
   </tr>
 </table>
 
@@ -18,58 +16,51 @@ Presenting our state-of-the-art T-shirt design platform, where you may unleash y
 
 ## Features
 <ul>
-  <li>Feature 1</li>
-  <li>Feature 2</li>
-  <li>Feature 3</li>
+  <li>Choose your color among 15 exicting swatches</li>
+  <li>Add your own custom logo, design, or art on the front of the shirt</li>
+  <li>Add your background color, pattern, or image to suite your needs</li>
 </ul>
 
 <!-- This is where to explore about the features further:  -->
 
-### Feature 1
+### Choose your color among 15 exicting swatches
 <table>
   <tr>
-    <td><img src="/src/Assets/thumbs/a.png" alt="Image a"></td>
-    <td><img src="/src/Assets/thumbs/c.png" alt="Image c"></td>
+    <td><img src="/3dShirt/src/assets/thumbs/a.png" alt="Image a"></td>
+    <td><img src="/3dShirt/src/assets/thumbs/c.png" alt="Image c"></td>
   </tr>
 </table>
 
 
-### Feature 2
+### Add your own custom logo, design, or art on the front of the shirt
 <table>
   <tr>
-    <td><img src="/src/Assets/thumbs/e.png" alt="Image e"></td>
-    <td><img src="/src/Assets/thumbs/d.png" alt="Image d"></td>
+    <td><img src="/3dShirt/src/assets/thumbs/e.png" alt="Image e"></td>
+    <td><img src="/3dShirt/src/assets/thumbs/d.png" alt="Image d"></td>
   </tr>
 </table>
 
 
-### Feature 3
+### Add your background color, pattern, or image to suite your needs
 <table>
   <tr>
-    <td><img src="/src/Assets/thumbs/b.png" alt="Image b"></td>
+    <td><img src="/3dShirt/src/assets/thumbs/b.png" alt="Image b"></td>
   </tr>
   <tr>
-    <td><img src="/src/Assets/thumbs/7.png" alt="Image 7"></td>
+    <td><img src="/3dShirt/src/assets/thumbs/7.png" alt="Image 7"></td>
   </tr>
 </table>
 
 
-### Other Features
-<table>
-  <tr>
-    <td><img src="/src/Assets/thumbs/5.png" alt="Image 5"></td>
-    <td><img src="/src/Assets/thumbs/6.jpg" alt="Image 6"></td>
-  </tr>
-</table>
 
 ## Technologies Used
 <table>
   <tr>
-    <td><img src="/src/Assets/logos/react.png" alt="Image a"></td>
-    <td><img src="/src/Assets/logos/redux.png" alt="Image a"></td>
-    <td><img src="/src/Assets/logos/router.png" alt="Image a"></td>
-    <td><img src="/src/Assets/logos/ant.png" alt="Image a"></td>
-    <td><img src="/src/Assets/logos/rapid api.png" alt="Image a"></td>
+    <td><img src="/3dShirt/src/assets/logo/react.png" alt="Image a"></td>
+    <td><img src="/3dShirt/src/assets/logo/vite.png" alt="Image a"></td>
+    <td><img src="/3dShirt/src/assets/logo/threejs.png" alt="Image a"></td>
+    <td><img src="/3dShirt/src/assets/logo/taiwind.png" alt="Image a"></td>
+    <td><img src="/3dShirt/src/assets/logo/framer.png" alt="Image a"></td>
   </tr>
 </table>
 
@@ -78,6 +69,6 @@ Presenting our state-of-the-art T-shirt design platform, where you may unleash y
 <ul>
   <li>Axios - For Fetching data</li>
   <li>Chart.js - For Chart depiction</li>
-  <li>Dayjs - For fetching the Date and Time</li>
+  <li>Dayjs - For fetching the Date and Time</li>s
   <li>Millify - For formatting large numbers in readable format</li>
 </ul>
