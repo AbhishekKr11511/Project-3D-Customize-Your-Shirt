@@ -46,7 +46,11 @@ Presenting our state-of-the-art T-shirt design platform, where you may unleash y
   <tr>
     <td><img src="/3dShirt/src/assets/thumbs/6.png" alt="Image b"></td>
     <td><img src="/3dShirt/src/assets/thumbs/7.png" alt="Image b"></td>
+
+  </tr>
+  <tr>
     <td><img src="/3dShirt/src/assets/thumbs/8.png" alt="Image 7"></td>
+    <td><img src="/3dShirt/src/assets/thumbs/10.png" alt="Image 7"></td>
   </tr>
 </table>
 
