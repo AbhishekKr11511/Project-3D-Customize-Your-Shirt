@@ -4,12 +4,12 @@ import { useSnapshot } from 'valtio'
 
 import config  from '../config/config'
 import state from '../store'
-import {download} from '../assets'
 import {downloadCanvasToImage, reader} from '../config/helpers'
 import { EditorTabs, FilterTabs, DecalTypes } from '../config/constants'
 import { fadeAnimation, slideAnimation } from '../config/motion'
 
 import {ColorPicker, AiPicker, Tab, FilePicker, CustomButton } from '../components'
+
 
 const Customizer = () => {
 
@@ -126,6 +126,7 @@ const Customizer = () => {
             {generateTabContent()}
           </div>
         </div>
+
       </motion.div>
 
       {/* The filter Buttons at the bottom of the screen */}
@@ -146,6 +147,12 @@ const Customizer = () => {
         <CustomButton
         type={'filled'}
         title={'Go back'}
+        handleClick={()=>state.intro = true}
+        customStyles={'w-fit px-4 py-2.5 font-bold text-sm'}
+        /><br/>
+        <CustomButton
+        type={'filled'}
+        title={'Logo Toggle'}
         handleClick={()=>state.intro = true}
         customStyles={'w-fit px-4 py-2.5 font-bold text-sm'}
         />

@@ -1,12 +1,13 @@
 import { Canvas } from "@react-three/fiber"
 import { Environment, Center } from "@react-three/drei"
-
+import { useState } from "react"
 
 import CameraRig from "./CameraRig"
 import Backdrop from "./Backdrop"
 import Shirt from "./Shirt"
 
 const CanvasModel = () => {
+  const [logo, setlogo] = useState(false);
   return (
     <Canvas
     shadows
@@ -20,7 +21,7 @@ const CanvasModel = () => {
       <CameraRig>
         <Backdrop />
         <Center>
-          <Shirt />
+          <Shirt toggle={logo}/>
         </Center>
       </CameraRig>
     </Canvas>
